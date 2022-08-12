@@ -14,19 +14,24 @@ Com o prompt aberto digitar o comando: "dart Desafio1.dart"
 
 Caso o usuário altere o nome do arquivo o comando ficaria: "dart novoNome.dart"
 
-Aperte "Windows + R" e digite na aba "powershell".
+Aperte "Windows + R" e digite na aba "powershell":
+
 ![print 1](https://user-images.githubusercontent.com/96122593/184386374-317f8c59-4c89-4fbd-b530-014cbff9e407.PNG)
 
-Se movendo para a área específica.
+Se movendo para a área específica:
+
 ![print 2](https://user-images.githubusercontent.com/96122593/184386749-80139e4f-49a1-4ae5-92f8-e7db1d68e843.png)
 
 Executando o programa:
+
 ![print 4](https://user-images.githubusercontent.com/96122593/184387544-349ae5f1-7b66-4fcd-a248-68b8b39a8444.PNG)
 
 Ao digitar um numero positivo:
+
 ![print 3](https://user-images.githubusercontent.com/96122593/184387208-4458c3ae-20fc-49c7-960e-6062b6c9b80f.png)
 
 Ao digitar um numero negativo:
+
 ![print 5](https://user-images.githubusercontent.com/96122593/184387703-622e7aa6-6130-4bce-9a67-060ddb9a8356.PNG)
 
 
